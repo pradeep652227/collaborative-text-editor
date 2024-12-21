@@ -1,5 +1,5 @@
-const websocket_Editor=require('./websockets-editor');
+const textEditor=require('./textEditor');
 
 module.exports={
-    websocket_Editor
+    textEditor
 }
